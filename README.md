@@ -1,417 +1,260 @@
 <!-- ===================================================== -->
-<!--                  PROFILE BANNER                       -->
+<!--                       BANNER                          -->
 <!-- ===================================================== -->
 
 <p align="center">
   <img src="./banner_github_eduardaribs.svg" width="100%" alt="Maria Eduarda Ribeiro da Silva">
 </p>
 
-<br>
-
-<!-- ===================================================== -->
-<!--                     CONTACT                           -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/eduarda-ribeiro-409646313">
-  <img src="https://img.shields.io/badge/LINKEDIN-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<img src="https://img.shields.io/badge/SÃO%20LUÍS%20--%20MA-7F1D1D?style=for-the-badge&logo=googlemaps&logoColor=white">
-
-<img src="https://img.shields.io/badge/BRAZIL-B91C1C?style=for-the-badge">
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduarda-ribeiro-409646313">
+    <img src="https://img.shields.io/badge/LINKEDIN-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/SÃO%20LUÍS%20--%20MA-7F1D1D?style=for-the-badge&logo=googlemaps&logoColor=white">
+  <img src="https://img.shields.io/badge/BRAZIL-B91C1C?style=for-the-badge">
+</p>
 
 <br>
 
 ---
 
-<!-- ===================================================== -->
-<!--                      ABOUT ME                         -->
-<!-- ===================================================== -->
-
 ## 👩‍💻 About Me
 
-I am passionate about **technology and engineering**, with experience in software development, artificial intelligence, data science and embedded systems.
+I am passionate about **technology and engineering**, with experience in **software development, artificial intelligence, data science and embedded systems**.
 
 My interests lie at the intersection of **engineering, hardware and software**, developing projects that range from programming and data analysis to **FPGA, digital systems, RISC-V and intelligent applications**.
 
 I enjoy exploring new technologies and turning technical knowledge into practical projects and solutions.
 
----
+<br>
 
-<!-- ===================================================== -->
-<!--                    WHAT I DO                          -->
-<!-- ===================================================== -->
+---
 
 ## ⚙️ What I Do
 
 <table width="100%">
-
-<tr>
-  <th width="25%" align="center">⚙️ Engineering</th>
-  <th width="25%" align="center">🤖 AI & Data</th>
-  <th width="25%" align="center">🔌 Embedded Systems</th>
-  <th width="25%" align="center">💻 Software</th>
-</tr>
-
-<tr>
-  <td width="25%" align="center" valign="top">
-    Digital Systems<br>
-    Electronics<br>
-    Hardware & Software
-  </td>
-
-  <td width="25%" align="center" valign="top">
-    Artificial Intelligence<br>
-    Machine Learning<br>
-    Data Analytics
-  </td>
-
-  <td width="25%" align="center" valign="top">
-    FPGA<br>
-    VHDL / Verilog<br>
-    RISC-V
-  </td>
-
-  <td width="25%" align="center" valign="top">
-    Python & C<br>
-    Web Development<br>
-    Backend & Frontend
-  </td>
-</tr>
-
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <strong>⚙️ Engineering</strong>
+      <br><br>
+      Digital Systems
+      <br>
+      Electronics
+      <br>
+      Hardware &amp; Software
+    </td>
+    <td width="25%" align="center" valign="top">
+      <strong>🤖 AI &amp; Data</strong>
+      <br><br>
+      Artificial Intelligence
+      <br>
+      Machine Learning
+      <br>
+      Data Analytics
+    </td>
+    <td width="25%" align="center" valign="top">
+      <strong>🔌 Embedded Systems</strong>
+      <br><br>
+      FPGA
+      <br>
+      VHDL / Verilog
+      <br>
+      RISC-V
+    </td>
+    <td width="25%" align="center" valign="top">
+      <strong>💻 Software</strong>
+      <br><br>
+      Python &amp; C
+      <br>
+      Web Development
+      <br>
+      Backend &amp; Frontend
+    </td>
+  </tr>
 </table>
 
 <br>
 
 ---
-
-<!-- ===================================================== -->
-<!--               TECHNOLOGIES & TOOLS                   -->
-<!-- ===================================================== -->
 
 ## 🛠️ Technologies & Tools
 
 <table width="100%">
-
-<!-- TITLES -->
-<tr>
-  <th width="50%" align="center">
-    💻 Programming
-  </th>
-
-  <th width="50%" align="center">
-    🌐 Web Development
-  </th>
-</tr>
-
-<!-- ICONS -->
-<tr>
-  <td width="50%" align="center" valign="middle">
-    <br>
-    <img src="https://skillicons.dev/icons?i=python,c,js,php&theme=dark">
-    <br><br>
-    Python • C • JavaScript • PHP
-    <br><br>
-  </td>
-
-  <td width="50%" align="center" valign="middle">
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel&theme=dark">
-    <br><br>
-    HTML • CSS • JavaScript • Vue.js • Laravel
-    <br><br>
-  </td>
-</tr>
-
-<!-- SECOND ROW TITLES -->
-<tr>
-  <th width="50%" align="center">
-    ⚙️ Embedded & Hardware
-  </th>
-
-  <th width="50%" align="center">
-    🗄️ Database & Development Tools
-  </th>
-</tr>
-
-<!-- SECOND ROW CONTENT -->
-<tr>
-
-  <td width="50%" align="center" valign="middle">
-    <br>
-
-    <img src="https://img.shields.io/badge/FPGA-B91C1C?style=for-the-badge">
-    <img src="https://img.shields.io/badge/VHDL-7F1D1D?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Verilog-B91C1C?style=for-the-badge">
-
-    <br>
-
-    <img src="https://img.shields.io/badge/RISC--V-7F1D1D?style=for-the-badge&logo=riscv&logoColor=white">
-    <img src="https://img.shields.io/badge/ESP32-B91C1C?style=for-the-badge&logo=espressif&logoColor=white">
-
-    <br><br>
-
-    FPGA • VHDL • Verilog • RISC-V • ESP32
-
-    <br><br>
-  </td>
-
-  <td width="50%" align="center" valign="middle">
-    <br>
-
-    <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode&theme=dark">
-
-    <br><br>
-
-    PostgreSQL • Git • GitHub • VS Code
-
-    <br><br>
-  </td>
-
-</tr>
-
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <strong>💻 Programming Languages</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=python,c,js,php&theme=dark" alt="Programming Languages">
+      <br><br>
+      <code>Python</code>
+      <code>C</code>
+      <code>JavaScript</code>
+      <code>PHP</code>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <strong>🌐 Web Development</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,vue,laravel&theme=dark" alt="Web Development">
+      <br><br>
+      <code>HTML</code>
+      <code>CSS</code>
+      <code>Vue.js</code>
+      <code>Laravel</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <strong>⚙️ Embedded &amp; Hardware</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/FPGA-B91C1C?style=for-the-badge" alt="FPGA">
+      <img src="https://img.shields.io/badge/VHDL-7F1D1D?style=for-the-badge" alt="VHDL">
+      <br>
+      <img src="https://img.shields.io/badge/VERILOG-B91C1C?style=for-the-badge" alt="Verilog">
+      <img src="https://img.shields.io/badge/RISC--V-7F1D1D?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V">
+      <br><br>
+      <code>FPGA</code>
+      <code>VHDL</code>
+      <code>Verilog</code>
+      <code>RISC-V</code>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <strong>🗄️ Database &amp; Development</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode&theme=dark" alt="Development Tools">
+      <br><br>
+      <code>PostgreSQL</code>
+      <code>Git</code>
+      <code>GitHub</code>
+      <code>VS Code</code>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    AI & DATA                          -->
-<!-- ===================================================== -->
-
 ## 🤖 AI & Data
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-B91C1C?style=for-the-badge" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Machine%20Learning-7F1D1D?style=for-the-badge" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Generative%20AI-B91C1C?style=for-the-badge" alt="Generative AI">
+  <img src="https://img.shields.io/badge/RAG-7F1D1D?style=for-the-badge" alt="RAG">
+</p>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-B91C1C?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-7F1D1D?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Generative%20AI-B91C1C?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/RAG-7F1D1D?style=for-the-badge">
-
-<br>
-
-<img src="https://img.shields.io/badge/Data%20Science-B91C1C?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Data%20Analytics-7F1D1D?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Power%20BI-B91C1C?style=for-the-badge&logo=powerbi&logoColor=white">
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-B91C1C?style=for-the-badge" alt="Data Science">
+  <img src="https://img.shields.io/badge/Data%20Analytics-7F1D1D?style=for-the-badge" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/Power%20BI-B91C1C?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+</p>
 
 <br>
 
 ---
-
-<!-- ===================================================== -->
-<!--                 FEATURED AREAS                        -->
-<!-- ===================================================== -->
 
 ## 🚀 Featured Areas
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/ENGINEERING-B91C1C?style=flat-square">
-
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-7F1D1D?style=flat-square">
-
-<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-B91C1C?style=flat-square">
-
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-7F1D1D?style=flat-square">
-
-<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-B91C1C?style=flat-square">
-
-<img src="https://img.shields.io/badge/FPGA-7F1D1D?style=flat-square">
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/ENGINEERING-B91C1C?style=flat-square" alt="Engineering">
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-7F1D1D?style=flat-square" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-B91C1C?style=flat-square" alt="Embedded Systems">
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-7F1D1D?style=flat-square" alt="Data Science">
+  <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-B91C1C?style=flat-square" alt="Software Development">
+  <img src="https://img.shields.io/badge/FPGA-7F1D1D?style=flat-square" alt="FPGA">
+</p>
 
 <br>
 
 ---
-
-<!-- ===================================================== -->
-<!--                  FEATURED PROJECTS                    -->
-<!-- ===================================================== -->
 
 ## 📌 Featured Projects
 
 <table width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 Artificial Intelligence & RAG</h3>
-
-Projects involving **Artificial Intelligence, data analysis, machine learning and Retrieval-Augmented Generation (RAG)**.
-
-<br>
-
-<b>Technologies</b>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-B91C1C?style=flat-square&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-7F1D1D?style=flat-square">
-
-<img src="https://img.shields.io/badge/RAG-B91C1C?style=flat-square">
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">⚙️ RISC-V & FPGA</h3>
-
-Development and study of digital systems involving **RISC-V architecture, FPGA, VHDL and Verilog**.
-
-<br>
-
-<b>Technologies</b>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/RISC--V-B91C1C?style=flat-square&logo=riscv&logoColor=white">
-
-<img src="https://img.shields.io/badge/FPGA-7F1D1D?style=flat-square">
-
-<img src="https://img.shields.io/badge/VHDL-B91C1C?style=flat-square">
-
-<img src="https://img.shields.io/badge/Verilog-7F1D1D?style=flat-square">
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">📊 Data Science</h3>
-
-Data exploration, analysis, machine learning models and development of **data-driven solutions and dashboards**.
-
-<br>
-
-<b>Technologies</b>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-B91C1C?style=flat-square&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Pandas-7F1D1D?style=flat-square&logo=pandas&logoColor=white">
-
-<img src="https://img.shields.io/badge/Data%20Analytics-B91C1C?style=flat-square">
-
-<img src="https://img.shields.io/badge/Power%20BI-7F1D1D?style=flat-square&logo=powerbi&logoColor=white">
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 Software Development</h3>
-
-Development of web applications and software solutions using frontend and backend technologies.
-
-<br>
-
-<b>Technologies</b>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Laravel-B91C1C?style=flat-square&logo=laravel&logoColor=white">
-
-<img src="https://img.shields.io/badge/Vue.js-7F1D1D?style=flat-square&logo=vuedotjs&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-B91C1C?style=flat-square&logo=javascript&logoColor=white">
-
-<img src="https://img.shields.io/badge/PostgreSQL-7F1D1D?style=flat-square&logo=postgresql&logoColor=white">
-
-</div>
-
-</td>
-
-</tr>
-
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🤖 Artificial Intelligence &amp; RAG</strong>
+      <br><br>
+      Projects involving artificial intelligence, machine learning, data analysis and Retrieval-Augmented Generation.
+      <br><br>
+      <code>Python</code>
+      <code>Machine Learning</code>
+      <code>RAG</code>
+      <code>AI</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>⚙️ RISC-V &amp; FPGA</strong>
+      <br><br>
+      Development and study of digital systems involving RISC-V architecture, FPGA, VHDL and Verilog.
+      <br><br>
+      <code>RISC-V</code>
+      <code>FPGA</code>
+      <code>VHDL</code>
+      <code>Verilog</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>📊 Data Science</strong>
+      <br><br>
+      Data exploration, machine learning models, analytical solutions and development of data-driven dashboards.
+      <br><br>
+      <code>Python</code>
+      <code>Pandas</code>
+      <code>Data Analytics</code>
+      <code>Power BI</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🌐 Software Development</strong>
+      <br><br>
+      Development of web applications and software solutions using frontend and backend technologies.
+      <br><br>
+      <code>Laravel</code>
+      <code>Vue.js</code>
+      <code>JavaScript</code>
+      <code>PostgreSQL</code>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 ---
 
-<!-- ===================================================== -->
-<!--                CURRENTLY EXPLORING                    -->
-<!-- ===================================================== -->
-
 ## 🎯 Currently Exploring
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-B91C1C?style=for-the-badge" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-7F1D1D?style=for-the-badge" alt="Embedded Systems">
+  <img src="https://img.shields.io/badge/FPGA-B91C1C?style=for-the-badge" alt="FPGA">
+  <img src="https://img.shields.io/badge/RISC--V-7F1D1D?style=for-the-badge" alt="RISC-V">
+</p>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-B91C1C?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Embedded%20Systems-7F1D1D?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/FPGA-B91C1C?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/RISC--V-7F1D1D?style=for-the-badge">
-
-<br>
-
-<img src="https://img.shields.io/badge/Data%20Science-B91C1C?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Engineering-7F1D1D?style=for-the-badge">
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-B91C1C?style=for-the-badge" alt="Data Science">
+  <img src="https://img.shields.io/badge/Engineering-7F1D1D?style=for-the-badge" alt="Engineering">
+</p>
 
 <br>
 
 ---
-
-<!-- ===================================================== -->
-<!--                     CONTACT                           -->
-<!-- ===================================================== -->
 
 ## 📫 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduarda-ribeiro-409646313">
+    <img src="https://img.shields.io/badge/LinkedIn-Maria%20Eduarda%20Ribeiro-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/eduarda-ribeiro-409646313">
-  <img src="https://img.shields.io/badge/LinkedIn-Maria%20Eduarda%20Ribeiro-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br><br>
-
-📍 São Luís, Maranhão — Brazil
-
-</div>
+<p align="center">
+  📍 São Luís, Maranhão — Brazil
+</p>
 
 <br>
 
 ---
 
-<div align="center">
-
-### Engineering • Technology • Innovation
-
-</div>
+<p align="center">
+  <strong>Engineering • Technology • Innovation</strong>
+</p>
