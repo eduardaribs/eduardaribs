@@ -1,4 +1,3 @@
-```html
 <!-- ===================================================== -->
 <!--                  PROFILE BANNER                       -->
 <!-- ===================================================== -->
@@ -423,4 +422,3 @@ Development of web applications and software solutions using frontend and backen
 ### Engineering • Technology • Innovation
 
 </div>
-```
