@@ -49,57 +49,40 @@ I enjoy exploring new technologies and turning technical knowledge into practica
 ## ⚙️ What I Do
 
 <table width="100%">
+
 <tr>
-
-<td width="25%" align="center" valign="top">
-
-<h3>⚙️ Engineering</h3>
-
-<br>
-
-Digital Systems<br>
-Electronics<br>
-Hardware & Software
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>🤖 AI & Data</h3>
-
-<br>
-
-Artificial Intelligence<br>
-Machine Learning<br>
-Data Analytics
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>🔌 Embedded Systems</h3>
-
-<br>
-
-FPGA<br>
-VHDL / Verilog<br>
-RISC-V
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>💻 Software</h3>
-
-<br>
-
-Python & C<br>
-Web Development<br>
-Backend & Frontend
-
-</td>
-
+  <th width="25%" align="center">⚙️ Engineering</th>
+  <th width="25%" align="center">🤖 AI & Data</th>
+  <th width="25%" align="center">🔌 Embedded Systems</th>
+  <th width="25%" align="center">💻 Software</th>
 </tr>
+
+<tr>
+  <td width="25%" align="center" valign="top">
+    Digital Systems<br>
+    Electronics<br>
+    Hardware & Software
+  </td>
+
+  <td width="25%" align="center" valign="top">
+    Artificial Intelligence<br>
+    Machine Learning<br>
+    Data Analytics
+  </td>
+
+  <td width="25%" align="center" valign="top">
+    FPGA<br>
+    VHDL / Verilog<br>
+    RISC-V
+  </td>
+
+  <td width="25%" align="center" valign="top">
+    Python & C<br>
+    Web Development<br>
+    Backend & Frontend
+  </td>
+</tr>
+
 </table>
 
 <br>
@@ -114,70 +97,80 @@ Backend & Frontend
 
 <table width="100%">
 
+<!-- TITLES -->
 <tr>
+  <th width="50%" align="center">
+    💻 Programming
+  </th>
 
-<td width="50%" valign="top">
-
-<h3 align="center">💻 Programming</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,php&theme=dark">
-</p>
-
-<p align="center">
-  Python • C • JavaScript • PHP
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 Web Development</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel&theme=dark">
-</p>
-
-<p align="center">
-  HTML • CSS • JavaScript • Vue.js • Laravel
-</p>
-
-</td>
-
+  <th width="50%" align="center">
+    🌐 Web Development
+  </th>
 </tr>
 
+<!-- ICONS -->
+<tr>
+  <td width="50%" align="center" valign="middle">
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,c,js,php&theme=dark">
+    <br><br>
+    Python • C • JavaScript • PHP
+    <br><br>
+  </td>
+
+  <td width="50%" align="center" valign="middle">
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel&theme=dark">
+    <br><br>
+    HTML • CSS • JavaScript • Vue.js • Laravel
+    <br><br>
+  </td>
+</tr>
+
+<!-- SECOND ROW TITLES -->
+<tr>
+  <th width="50%" align="center">
+    ⚙️ Embedded & Hardware
+  </th>
+
+  <th width="50%" align="center">
+    🗄️ Database & Development Tools
+  </th>
+</tr>
+
+<!-- SECOND ROW CONTENT -->
 <tr>
 
-<td width="50%" valign="top">
+  <td width="50%" align="center" valign="middle">
+    <br>
 
-<h3 align="center">⚙️ Embedded & Hardware</h3>
+    <img src="https://img.shields.io/badge/FPGA-B91C1C?style=for-the-badge">
+    <img src="https://img.shields.io/badge/VHDL-7F1D1D?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Verilog-B91C1C?style=for-the-badge">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FPGA-B91C1C?style=for-the-badge">
-  <img src="https://img.shields.io/badge/VHDL-7F1D1D?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Verilog-B91C1C?style=for-the-badge">
-</p>
+    <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RISC--V-7F1D1D?style=for-the-badge&logo=riscv&logoColor=white">
-  <img src="https://img.shields.io/badge/ESP32-B91C1C?style=for-the-badge&logo=espressif&logoColor=white">
-</p>
+    <img src="https://img.shields.io/badge/RISC--V-7F1D1D?style=for-the-badge&logo=riscv&logoColor=white">
+    <img src="https://img.shields.io/badge/ESP32-B91C1C?style=for-the-badge&logo=espressif&logoColor=white">
 
-</td>
+    <br><br>
 
-<td width="50%" valign="top">
+    FPGA • VHDL • Verilog • RISC-V • ESP32
 
-<h3 align="center">🗄️ Database & Development Tools</h3>
+    <br><br>
+  </td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode&theme=dark">
-</p>
+  <td width="50%" align="center" valign="middle">
+    <br>
 
-<p align="center">
-  PostgreSQL • Git • GitHub • VS Code
-</p>
+    <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode&theme=dark">
 
-</td>
+    <br><br>
+
+    PostgreSQL • Git • GitHub • VS Code
+
+    <br><br>
+  </td>
 
 </tr>
 
